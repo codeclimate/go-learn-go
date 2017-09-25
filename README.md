@@ -5,7 +5,8 @@ change as we find new things we want to know.
 
 1. Installing Go
 
-  - **TODO Find a good resource for this**
+  - Work through [Installation]
+  - Read through the [workspace] explanation
 
 1. Go basics
 
@@ -44,5 +45,7 @@ change as we find new things we want to know.
 
 [confluent-kafka-go]: https://github.com/confluentinc/confluent-kafka-go
 [Creating a RESTful API with Golang]: https://tutorialedge.net/golang/creating-restful-api-with-golang/
+[Installation]: https://astaxie.gitbooks.io/build-web-application-with-golang/en/01.1.html
 [Learning Go]: https://www.miek.nl/go
 [Testing in Go]: https://blog.codeship.com/testing-in-go/
+[workspace]: https://astaxie.gitbooks.io/build-web-application-with-golang/en/01.2.html

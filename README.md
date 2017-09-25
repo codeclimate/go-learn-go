@@ -5,12 +5,12 @@ change as we find new things we want to know.
 
 1. Installing Go
 
-  - Work through [Installation]
-  - Read through the [workspace] explanation
+   - Work through [Installation]
+   - Read through the [workspace] explanation
 
 1. Go basics
 
-  - Work through [Learning Go]
+   - Work through [Learning Go]
 
 1. Testing
 
